@@ -1,0 +1,15 @@
+{
+	"base" : {
+		"token": "monitor",
+		"encodingAESKey" : "qI5fSC17A1U0QB5rt9HQre3bOcL4qifJrqwxoxp8uWN",
+		"corpId": "wx352de453e7489c"
+	},
+
+	"rootServer": "http://wechat.frankfan.me",
+
+	"userAgent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)",
+
+	"owner": "Enterprise",
+	"secret": "",
+  "monitorToken": ""
+}
